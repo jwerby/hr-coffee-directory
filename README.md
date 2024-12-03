@@ -1,32 +1,53 @@
 # Hampton Roads Coffee Directory
 
-A comprehensive guide to coffee establishments in the Hampton Roads area.
+An interactive directory of coffee establishments in the Hampton Roads area.
 
 ## Features
 
-- Interactive directory of coffee shops, roasters, and related businesses
-- Filter by location, type, and special characteristics
-- Detailed information about each establishment
-- Mobile-responsive design
+- Comprehensive listing of coffee shops, roasters, and related businesses
+- Advanced filtering and search capabilities
+- Detailed business information including hours, social media, and specialties
+- Mobile-responsive design with dark mode support
 
-## Data
+## Tech Stack
 
-The directory data is stored in `data/coffee-directory.json` and includes:
-- Coffee shops
-- Roasters
-- Industry businesses
-- Local coffee influencers
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn/UI
 
 ## Development
 
 1. Clone the repository
-2. Open `index.html` in your browser
-3. To update data, modify `data/coffee-directory.json`
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Data Structure
+
+The directory data is stored in `src/data/directory.json` and follows a structured schema including:
+
+- Detailed business information
+- Location data including coordinates
+- Operating hours
+- Social media presence
+- Special features and certifications
 
 ## Contributing
 
-Contributions are welcome! Please submit pull requests for:
-- New coffee establishments
-- Updated information
-- UI improvements
-- Additional features
+Contributions are welcome! Please:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
+For data updates, please include verification sources.
+
+## License
+
+MIT

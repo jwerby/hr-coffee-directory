@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "lastUpdated": "2024-12-03",
+    "version": "1.0.0",
+    "region": "Hampton Roads",
+    "totalEntries": 52
+  },
+  "roasters": [
+    {
+      "id": "three-ships",
+      "name": "Three Ships Coffee",
+      "location": {
+        "city": "Virginia Beach",
+        "neighborhood": "ViBe District",
+        "address": "607 19th St",
+        "zip": "23451",
+        "coordinates": {
+          "lat": 36.8529,
+          "lng": -75.9780
+        }
+      },
+      "type": "Roaster & Café",
+      "description": "Award-winning roaster with café, known for unique complex flavors and expertly crafted beverages",
+      "rating": {
+        "score": 4.8,
+        "reviewCount": 856,
+        "source": "Google Reviews"
+      },
+      "hours": {
+        "monday": "7:00-17:00",
+        "tuesday": "7:00-17:00",
+        "wednesday": "7:00-17:00",
+        "thursday": "7:00-17:00",
+        "friday": "7:00-17:00",
+        "saturday": "8:00-17:00",
+        "sunday": "8:00-15:00"
+      },
+      "contact": {
+        "phone": "757-321-3385",
+        "email": "info@threeshipscoffee.com",
+        "website": "threeshipscoffee.com"
+      },
+      "social": {
+        "instagram": "@threeshipscoffee",
+        "followers": "12.5K",
+        "facebook": "threeshipscoffee"
+      },
+      "features": [
+        "Wifi",
+        "Outdoor Seating",
+        "Food Menu",
+        "Retail Beans",
+        "Pour Over"
+      ],
+      "specialties": [
+        "Single Origin Coffees",
+        "Cold Brew",
+        "Espresso Drinks"
+      ]
+    },
+    {
+      "id": "fathom-coffee",
+      "name": "Fathom Coffee",
+      "location": {
+        "city": "Virginia Beach",
+        "neighborhood": "Oceanfront",
+        "address": "1682 Baltic Ave",
+        "zip": "23451",
+        "coordinates": {
+          "lat": 36.8438,
+          "lng": -75.9762
+        }
+      },
+      "type": "Roaster & Café",
+      "description": "Veteran-owned, small-batch nano roaster specializing in premium coffees",
+      "certifications": [
+        "Veteran Owned",
+        "Small Batch Certified"
+      ],
+      "rating": {
+        "score": 4.7,
+        "reviewCount": 324,
+        "source": "Google Reviews"
+      },
+      "social": {
+        "instagram": "@fathomcoffee",
+        "followers": "5.2K"
+      }
+    }
+  ],
+  "industry": [
+    {
+      "id": "massimo-zanetti",
+      "name": "Massimo Zanetti Beverage USA",
+      "type": "Manufacturing & Distribution",
+      "location": {
+        "city": "Suffolk",
+        "address": "1370 Progress Rd",
+        "zip": "23434"
+      },
+      "description": "Major coffee roasting and packaging facility, parent company of Hills Bros Coffee",
+      "details": {
+        "employeeCount": "500+",
+        "facilitySize": "200,000 sq ft",
+        "annualProduction": "120M lbs coffee",
+        "founded": 1980
+      },
+      "brands": [
+        "Hills Bros",
+        "Chock full o'Nuts",
+        "Segafredo Zanetti"
+      ]
+    }
+  ],
+  "influencers": [
+    {
+      "id": "757-coffee",
+      "name": "757 Coffee Culture",
+      "type": "Content Creator",
+      "platforms": {
+        "instagram": {
+          "handle": "@757coffeeculture",
+          "followers": "8.5K",
+          "engagement": "4.2%"
+        },
+        "tiktok": {
+          "handle": "@757coffee",
+          "followers": "12.3K"
+        }
+      },
+      "content": [
+        "Reviews",
+        "Latte Art",
+        "Shop Tours",
+        "Brewing Guides"
+      ],
+      "collaborations": [
+        "Three Ships Coffee",
+        "Fathom Coffee"
+      ]
+    }
+  ]
+}
